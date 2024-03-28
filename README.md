@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Next-Js-With-Server-Side
 # Next-Js-With-Server-Side
 # Next-Js-Server-Side-and-Client-Side
+# Next-Js-Server-Side-and-Client-Side
